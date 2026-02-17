@@ -7,7 +7,7 @@ const settings = {
   giphyApiKey: process.env.GIPHY_API_KEY || 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: process.env.COMMAND_MODE || "public",
   statusReactEmoji: process.env.STATUS_REACT_EMOJI || "✅",
-  autoStatusReact: process.env.AUTO_STATUS_REACT === 'true',
+  autoStatusReact: process.env.AUTO_STATUS_REACT === 'false',
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
