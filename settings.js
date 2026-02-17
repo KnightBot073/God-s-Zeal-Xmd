@@ -3,7 +3,7 @@ const settings = {
   author: process.env.AUTHOR || '‎Gods Zeal †',
   botName: process.env.BOT_NAME || "𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃",
   botOwner: process.env.OWNER_NAME || 'Gods Zeal †',
-  ownerNumber: process.env.OWNER_NUMBER || '2347049283499',
+  ownerNumber: process.env.OWNER_NUMBER || '254716133243',
   giphyApiKey: process.env.GIPHY_API_KEY || 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: process.env.COMMAND_MODE || "public",
   statusReactEmoji: process.env.STATUS_REACT_EMOJI || "✅",
